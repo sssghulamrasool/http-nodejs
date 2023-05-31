@@ -25,8 +25,3 @@ The server started simply returns a `Hello World` payload. The server code is lo
 
 
 
-Salam. I recently gave an interview for the position of react js developer. after completing the interview, I asked MR.ASAD about their feedback, and they mentioned that you are ok from my side. They indicated that the HR department would be responsible for providing further information.
-
-I am reaching out to kindly request an update on the status of my application and any feedback from the interview. 
-
-
